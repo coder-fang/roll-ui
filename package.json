@@ -1,0 +1,17 @@
+{
+  "name": "roll-ui",
+  "version": "1.0.0",
+  "description": "A flexible and easy-to-use React UI component library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roll",
+    "ui",
+    "组件库",
+    "React"
+  ],
+  "author": "ShanCaiJangzi",
+  "license": "ISC"
+}
